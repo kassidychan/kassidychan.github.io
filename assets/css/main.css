@@ -2003,8 +2003,7 @@ input, select, textarea {
 				display: flex;
 				justify-content: center;
 				align-items: center;
-				width: 100px;
-				height: 100px;
+				height: 200px;
 			}
 
 			.imgwrapper .img {
