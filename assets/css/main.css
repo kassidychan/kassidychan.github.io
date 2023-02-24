@@ -2000,7 +2000,9 @@ input, select, textarea {
 			position: relative;
 		}
 			.features section .imgwrapper {
-				display: flex;
+				position: absolute;
+    			left: 0;
+				top: 0;
 				height: 300px;
 			}
 
