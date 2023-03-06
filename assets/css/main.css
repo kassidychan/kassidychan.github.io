@@ -4016,25 +4016,15 @@ input, select, textarea {
 			display: flex;
 			justify-content: center;
 			align-items: center;
-			min-height: 100vh;
+			min-width: 95vw;
 		}
 
-		@media (max-width: 800px) {
+		@media (max-width: 650px) {
 			#container {
 				justify-content: center;
-				padding: 20px;
-				height: 300px;
+				padding: 25px;
 			}
 		}
-		
-		@media (max-width: 400px) {
-			#container {
-				justify-content: center;
-				padding: 10px;
-				height: 200px;
-			}
-		}
-		
 					
 		#carousel, #navigation {
 			flex: initial;
@@ -4044,7 +4034,7 @@ input, select, textarea {
 		#carousel {
 			overflow: hidden;
 			width: 90%;
-			height: 600px;
+			height: 75vh;
 			border-radius: 4px;
 			background-color: rgba(133, 133, 133, 0.473);
 		}
@@ -4104,7 +4094,7 @@ input, select, textarea {
 					
 		[class^="label_"]:hover {
 			color: #444;
-			background-color: #ffeed9;
+			background-color: #e9e9e9;
 		}
 					
 		#button_a:checked ~ #navigation .label_a,
@@ -4113,8 +4103,9 @@ input, select, textarea {
 		#button_d:checked ~ #navigation .label_d {
 			 cursor: default;
 			 color: #fff;
-			 background-color: #222;
+			 background-color: rgb(94, 66, 166);
 		}
+		
 
 
 	
