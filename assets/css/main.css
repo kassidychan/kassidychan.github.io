@@ -2022,12 +2022,12 @@ input, select, textarea {
 				width: 100%;
 				opacity: 0;
 				transition: .5s ease;
-				background-color: rgba(255, 255, 255, 0.70);
+				background-color: rgba(224, 224, 224, 0.8);
 				border-radius: 0.25em;
 			}
 
 			.features section .overlay .text {
-				color: #953d75;
+				color: #AE4788;
 				font-size: 22px;
 				position: absolute;
 				top: 50%;
@@ -3292,7 +3292,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #3E64A3;
+			background-color: #4550a3;/*#6170BD*/
 		}
 
 		.wrapper.style2-alt {
@@ -3300,7 +3300,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #AE4788;
+			background-color: #b95494;/*#AE4788;*/
 		}
 
 		.wrapper.style3-alt {
@@ -3952,7 +3952,7 @@ input, select, textarea {
 
 		}
 
-		/*Photo gallery*/
+	/*Photo gallery*/
 		#gallery {
 			padding: 4em;
 			text-align: center;
