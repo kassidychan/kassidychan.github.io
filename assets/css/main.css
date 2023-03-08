@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.55);
+		color: rgba(255, 255, 255, 0.75);
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -2022,12 +2022,12 @@ input, select, textarea {
 				width: 100%;
 				opacity: 0;
 				transition: .5s ease;
-				background-color: rgba(224, 224, 224, 0.8);
+				background-color: #e0e0e0e6;
 				border-radius: 0.25em;
 			}
 
 			.features section .overlay .text {
-				color: #AE4788;
+				color: #702E59;
 				font-size: 22px;
 				position: absolute;
 				top: 50%;
@@ -2441,7 +2441,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: rgba(255, 255, 255, 0.55);
+			color: rgba(255, 255, 255, .75);
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
