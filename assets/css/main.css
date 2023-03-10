@@ -4019,7 +4019,6 @@ input, select, textarea {
 			display: flex;
 			justify-content: center;
 			align-items: center;
-			min-width: 95vw;
 		}
 
 		@media (max-width: 650px) {
@@ -4036,7 +4035,7 @@ input, select, textarea {
 					
 		#carousel {
 			overflow: hidden;
-			width: 90%;
+			width: 85%;
 			height: 75vh;
 			border-radius: 4px;
 			background-color: rgba(133, 133, 133, 0.473);
