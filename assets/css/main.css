@@ -2602,7 +2602,12 @@ input, select, textarea {
 				}
 
 /* Image */
-
+	.logo {
+		display: flex;
+      	justify-content: left;
+		height: 120px;
+		object-fit: contain;
+	}
 
 	.image {
 		border-radius: 0.25em;
