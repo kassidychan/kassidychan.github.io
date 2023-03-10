@@ -4100,7 +4100,7 @@ input, select, textarea {
 		#button_d:checked ~ #navigation .label_d {
 			 cursor: default;
 			 color: #fff;
-			 background-color: rgb(94, 66, 166);
+			 background-color: #b95494;
 		}
 		
 
