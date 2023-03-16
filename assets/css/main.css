@@ -4021,7 +4021,7 @@ input, select, textarea {
 			align-items: center;
 		}
 
-		@media (max-width: 650px) {
+		@media (max-width: 400px) {
 			#container {
 				justify-content: center;
 				padding: 25px;
