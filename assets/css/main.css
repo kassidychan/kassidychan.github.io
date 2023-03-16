@@ -4025,6 +4025,7 @@ input, select, textarea {
 			#container {
 				justify-content: center;
 				padding: 25px;
+				max-height: 50vh;
 			}
 		}
 					
