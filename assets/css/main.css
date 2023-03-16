@@ -4020,21 +4020,6 @@ input, select, textarea {
 			justify-content: center;
 			align-items: center;
 		}
-
-		@media (max-width: 400px) {
-			#container {
-				justify-content: center;
-				padding: 25px;
-				max-height: 50vh;
-			}
-			#carousel {
-				overflow: hidden;
-				width: 85%;
-				height: 50vh;
-				border-radius: 4px;
-				background-color: rgba(133, 133, 133, 0.473);
-			}
-		}
 					
 		#carousel, #navigation {
 			flex: initial;
@@ -4049,6 +4034,21 @@ input, select, textarea {
 			background-color: rgba(133, 133, 133, 0.473);
 		}
 					
+		@media (max-width: 400px) {
+			#container {
+				justify-content: center;
+				padding: 25px;
+				max-height: 50vh;
+			}
+			#carousel {
+				overflow: hidden;
+				width: 85%;
+				height: 50vh;
+				border-radius: 4px;
+				background-color: rgba(133, 133, 133, 0.473);
+			}
+		}
+		
 		.p-wrapper {
 			position: relative;
 			width: 100%;
