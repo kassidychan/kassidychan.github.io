@@ -4038,12 +4038,12 @@ input, select, textarea {
 			#container {
 				justify-content: center;
 				padding: 25px;
-				max-height: 50vh;
+				max-height: 35vh;
 			}
 			#carousel {
 				overflow: hidden;
 				width: 85%;
-				height: 50vh;
+				height: 35vh;
 				border-radius: 4px;
 				background-color: rgba(133, 133, 133, 0.473);
 			}
