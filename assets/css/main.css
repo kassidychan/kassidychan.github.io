@@ -4027,6 +4027,13 @@ input, select, textarea {
 				padding: 25px;
 				max-height: 50vh;
 			}
+			#carousel {
+				overflow: hidden;
+				width: 85%;
+				height: 50vh;
+				border-radius: 4px;
+				background-color: rgba(133, 133, 133, 0.473);
+			}
 		}
 					
 		#carousel, #navigation {
