@@ -2612,7 +2612,7 @@ input, select, textarea {
 	.logo {
 		display: flex;
       	justify-content: left;
-		height: 120px;
+		height: 200px;
 		object-fit: contain;
 	}
 
